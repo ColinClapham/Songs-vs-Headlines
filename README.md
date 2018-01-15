@@ -5,4 +5,4 @@ Art tends to imitate life. Through this analysis, I wish to compare the titles o
 A subset of the Million Songs Database was used for song titles while a subset of NYT Headlines were used for newspaper data.
 
 url for ShinyApp:
-http://127.0.0.1:5395/
+https://colinclapham.shinyapps.io/final/
